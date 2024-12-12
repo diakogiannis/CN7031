@@ -29,3 +29,12 @@ SODANET Data Catalogue. (n.d.). Dataset: Female Migration in Greece. doi:10.1790
 - **Google CoLab**
 
 ---
+
+## Μετατροπή Δεδομένων
+Το αρχικό dataset ήταν σε μορφή **SAV**. Για τη μετατροπή του σε μορφή **CSV**, χρησιμοποιήθηκε το εργαλείο [SAV-to-CSV-Convertor](https://github.com/easyvansh/SAV-to-CSV-Convertor).
+
+**Βήματα Μετατροπής:**
+1. Κατέβασμα του εργαλείου από το GitHub.
+2. Μετατροπή του αρχείου `.sav` σε `.csv` με απλή εκτέλεση.
+3. Το μετατραπέν αρχείο χρησιμοποιήθηκε για περαιτέρω επεξεργασία και ανάλυση.
+
