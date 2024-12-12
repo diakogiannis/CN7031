@@ -1,0 +1,13 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter Notebook for interactive analysis
+notebook==7.0.0
+
+# Spark
+pyspark==3.4.1
